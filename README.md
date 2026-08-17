@@ -13,7 +13,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=lalit-mittal49&label=Profile%20Views&color=0078D4&style=flat)](https://github.com/lalit-mittal49)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mittal-lalit)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jonhymittal8769@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/lalit-mittal49)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/lalit-mittal49)
 
 </div>
 
