@@ -1,4 +1,4 @@
-<div align="center">
+lalit mittal<div align="center">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,18,24,30&height=180&section=header&text=Lalit%20Mittal&fontSize=52&fontFamily=Space+Grotesk&fontAlignY=38&animation=fadeIn" alt="Lalit Mittal" width="100%" />
